@@ -27,7 +27,7 @@ Doc Searcher is a Streamlit application that allows users to query a collection 
 3. Ensure you have a HuggingFace API token and set it as an environment variable:
 
     ```bash
-    export HUGGINGFACEHUB_API_TOKEN="your_huggingface_api_token"
+    export HUGGINGFACEHUB_API_TOKEN="your_huggingface_api_token Manjeetkumaryadav"
     ```
 
 ## Usage
